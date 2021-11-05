@@ -30,7 +30,7 @@ public class Ejemplo03 {
         System.out.println("Ingrese el año de nacimiento del estudiante");
         nacimiento = entrada.nextLine();
         
-        System.out.printf("Datos del estudiante\n%s\n%s\n%s\n", 
+        System.out.printf("\nDatos del estudiante\n%s\n%s\n%s\n", 
                 nombre,
                 apellido,
                 nacimiento);
